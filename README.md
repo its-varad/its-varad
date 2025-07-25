@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-varad&layout=compact&theme=github_dark&hide=HTML,css,MDX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-varad&hide_border=true&layout=compact&theme=github_dark&hide=HTML,css,MDX)
 
 
 <!-- Streak Stats -->
