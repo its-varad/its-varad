@@ -1,7 +1,11 @@
 ## Hi there 👋
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-varad&hide=HTML,css&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=its-varad&theme=github-dark)
+<!-- GitHub Stats -->
+![Varad's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-varad&show_icons=true&theme=github_dark)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-varad&theme=github-dark&hide_border=false)
 
 <!--
 **its-varad/its-varad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
