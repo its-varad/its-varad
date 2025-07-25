@@ -3,7 +3,7 @@
 
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-varad&theme=github-dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-varad&theme=github-dark&hide_border=true)
 
 
 
