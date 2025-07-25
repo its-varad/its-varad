@@ -5,7 +5,7 @@
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-varad&theme=github-dark&hide_border=false)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=its-varad&theme=github-dark)
+
 
 
 
