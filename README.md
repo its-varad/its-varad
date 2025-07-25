@@ -1,8 +1,6 @@
 ## Hi there 👋
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-varad&hide=HTML,css&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- GitHub Stats -->
-![Varad's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-varad&show_icons=true&theme=github_dark)
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-varad&theme=github-dark&hide_border=false)
