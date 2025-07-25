@@ -1,5 +1,8 @@
 ## Hi there 👋
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-varad&hide=HTML,css&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=its-varad&theme=github-dark)
+
 <!--
 **its-varad/its-varad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
