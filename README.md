@@ -5,6 +5,8 @@
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-varad&theme=github-dark&hide_border=false)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-varad&layout=compact&theme=github_dark)
+
 <!--
 **its-varad/its-varad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
